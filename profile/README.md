@@ -1,3 +1,3 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/83291717/169342521-eb768902-2bb5-4533-bdc7-14b48d15ad5d.png'/>
+  <img src='https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png'/>
 </p>
