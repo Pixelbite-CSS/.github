@@ -88,6 +88,7 @@
     * Icons
     * Animations
 * Paragraphs
+* Collapsables
 * Containers (variaties)
     * Flex
     * Row
