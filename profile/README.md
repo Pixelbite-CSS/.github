@@ -78,6 +78,7 @@
         * Rounded Corners
         * 3d
     * Switch
+    * Disabled
 * Darkmode (via System)
 * Loader (variaties)
     * Loader Icons
@@ -93,7 +94,8 @@
     * Collumn
     * Center
 * Boxes (variaties)
-    * Styled variaties
+    * Modals
+    * Popovers
 * Colors (also Custom Colors)
     * Text Color, Background, …
     * Red, Orange, Yellow, …
