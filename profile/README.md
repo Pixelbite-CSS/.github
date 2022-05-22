@@ -84,6 +84,7 @@
     * Loader Icons
 * Header
     * HeaderLeft, HeaderRight
+* Side menu
 * Burger (responsive, variaties)
     * Icons
     * Animations
