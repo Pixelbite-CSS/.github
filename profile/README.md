@@ -4,7 +4,13 @@
 - ***Pixelbite CSS*** is simply a CSS Framework like **Bootstrap** or **Tailwind**
 - This Framework helps site being build more faster, responsive and customizable
 
-#### Wanted Features
+### More
+- [Main Repository](https://github.com/Pixelbite-CSS/pixelbite-css)
+- [Documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md)
+
+<details>
+<summary><h3>Wanted Features</h3></summary>
+
 * Size patterns
     * XS - extra small
     * S - small
@@ -110,5 +116,5 @@
     * Slideshow
     * Click and Show
 * Addons - make adittion for people ti make custom addons/CSSs for framework
-   
-- [documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md)
+
+</details>
