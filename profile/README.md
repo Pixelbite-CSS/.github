@@ -110,3 +110,5 @@
     * Slideshow
     * Click and Show
 * Addons - make adittion for people ti make custom addons/CSSs for framework
+   
+- [documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md)
