@@ -7,5 +7,8 @@
 - Vylepšení hlavní kostry
 - Přidání hlavního JavaScriptu pro jednoduchou úpravu (možná zpomalý proces načítání)
   - *viz. `class_library` - script/pixelbite.js*
+- Přidání vlastních barev
+  - *viz. `color_library` - script/pixelbite.js*
+  - *viz. `:root` - script/pixelbite.css*
 - Přídání tkz. **CSS essentials** pro tvorbu
 - Přídání testů
