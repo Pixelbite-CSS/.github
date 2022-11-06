@@ -1,4 +1,6 @@
+<!--
 ![img](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
+-->
 
 ### What is Pixelbite CSS?
 - ***Pixelbite CSS*** is simply a CSS Framework like **Bootstrap** or **Tailwind**
