@@ -16,7 +16,8 @@
 - Pushnutí nových CSS a JS typů
   - *viz. `class_library` - script/pixelbite.js*
   - *viz. `class_library_hsl` - script/pixelbite.js*
-  - *viz. `window.onload` - script/pixelbite.js*
   - *viz. classes - script/pixelbite.css*
 - Přidání automatických Commentů vypisující se do konzole a do HTML
+  - *viz. `window.onload` - script/pixelbite.js*
 - Přidání podpory vlastních barev 
+  - *viz. `addSignature()` - script/pixelbite.js*
