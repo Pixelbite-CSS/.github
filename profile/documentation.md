@@ -20,4 +20,4 @@
 - Přidání automatických Commentů vypisující se do konzole a do HTML
   - *viz. `window.onload` - script/pixelbite.js*
 - Přidání podpory vlastních barev 
-  - *viz. `addSignature()` - script/pixelbite.js*
+  - *viz. `addColorHsl()` - script/pixelbite.js*
