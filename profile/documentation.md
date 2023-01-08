@@ -13,6 +13,10 @@
 - Přídání tkz. **CSS essentials** pro tvorbu
 - Přídání testů
 #### 08.01.2023 - JavaScript a CSS Upgrade
-- Pushnití nových CSS a JS typů
+- Pushnutí nových CSS a JS typů
+  - *viz. `class_library` - script/pixelbite.js*
+  - *viz. `class_library_hsl` - script/pixelbite.js*
+  - *viz. `window.onload` - script/pixelbite.js*
+  - *viz. classes - script/pixelbite.css*
 - Přidání automatických Commentů vypisující se do konzole a do HTML
 - Přidání podpory vlastních barev 
