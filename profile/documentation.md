@@ -12,3 +12,7 @@
   - *viz. `:root` - script/pixelbite.css*
 - Přídání tkz. **CSS essentials** pro tvorbu
 - Přídání testů
+#### 08.01.2023 - JavaScript a CSS Upgrade
+- Pushnití nových CSS a JS typů
+- Přidání automatických Commentů vypisující se do konzole a do HTML
+- Přidání podpory vlastních barev 
