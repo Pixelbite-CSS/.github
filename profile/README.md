@@ -9,7 +9,7 @@
 ### More
 - [Website](https://pixelbite-css.github.io)
 - [Main Repository](https://github.com/Pixelbite-CSS/pixelbite-css)
-- [Documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md)
+- [Documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md) (outdated)
 
 
 ### Work in progress
