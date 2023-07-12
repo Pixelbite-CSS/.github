@@ -18,6 +18,8 @@
 - [Custom component support](https://github.com/Pixelbite-CSS/custom-component-test) [done]
   - We will be migrating our [website](https://pixelbite-css.github.io) into component support in the next release of Pixelbite's version
   - Adding arguments support [done]
-- Change Website's Color Scheme
-- Fix main loop
+- ~Change Website's Color Scheme~
+- Fix main loop [done]
 - _Older version support + select version_ [done]
+- Reconstruct Website
+- Complete Docs (for version 1.6)
