@@ -2,6 +2,8 @@
 ![img](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
 -->
 
+<img src="https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/logo_white_shield.svg" width="100" />
+
 ### What is Pixelbite CSS?
 - ***Pixelbite CSS*** is simply a CSS Framework like **Bootstrap** or **Tailwind**
 - This Framework helps site being build more faster, responsive and customizable
