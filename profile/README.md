@@ -24,3 +24,5 @@
 - _Older version support + select version_ [done]
 - Reconstruct Website
 - Complete Docs (for version 1.6)
+
+![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
