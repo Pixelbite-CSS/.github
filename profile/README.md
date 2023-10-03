@@ -9,6 +9,7 @@
 - This Framework helps site being build more faster, responsive and customizable
 
 ### More
+- [FAQ's Discussion](https://github.com/orgs/Pixelbite-CSS/discussions/6)
 - [Website](https://pixelbite-css.github.io) ([repository](https://github.com/Pixelbite-CSS/Pixelbite-CSS.github.io))
 - [Main Repository](https://github.com/Pixelbite-CSS/pixelbite-css)
 - [Docs Repository](https://github.com/Pixelbite-CSS/docs-repo)
