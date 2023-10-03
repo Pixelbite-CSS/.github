@@ -17,12 +17,13 @@
 
 ### Work in progress
 - [Custom component support](https://github.com/Pixelbite-CSS/custom-component-test) [done]
-  - We will be migrating our [website](https://pixelbite-css.github.io) into component support in the next release of Pixelbite's version
+  - We will be migrating our [website](https://pixelbite-css.github.io) into component support in the next release of Pixelbite's version [done]
   - Adding arguments support [done]
 - ~Change Website's Color Scheme~
 - Fix main loop [done]
 - _Older version support + select version_ [done]
-- Reconstruct Website
+- Reconstruct Website [done]
 - Complete Docs (for version 1.6)
+- Complete Website
 
 ![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
