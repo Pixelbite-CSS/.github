@@ -2,7 +2,7 @@
 ![img](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
 -->
 
-<img src="https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/logo_white_shield.svg" width="200" />
+![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
 
 ### What is Pixelbite CSS?
 - ***Pixelbite CSS*** is simply a CSS Framework like **Bootstrap** or **Tailwind**
@@ -27,5 +27,3 @@
 - Reconstruct Website [done]
 - Complete Docs (for version 1.6)
 - Complete Website
-
-![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
