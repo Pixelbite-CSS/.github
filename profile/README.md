@@ -38,3 +38,5 @@ We welcome contributions and participation from the community. Whether you're a 
 For any inquiries or support, you can reach us at [discussions](https://github.com/orgs/Pixelbite-CSS/discussions).
 
 Thank you for being a part of the PixelbiteCSS community.
+
+Happy coding! 🚀
