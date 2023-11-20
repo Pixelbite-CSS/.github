@@ -29,6 +29,12 @@ We welcome contributions and participation from the community. Whether you're a 
 - **[Contribute](https://github.com/Pixelbite-CSS/pixelbite-css):** Learn how to contribute to PixelbiteCSS projects.
 - **[Open Positions](https://pixelbite-css.github.io/team/positions):** Check our current job openings and join the PixelbiteCSS team.
 
+<a href="https://pixelbite-css.github.io/team/positions">
+
+  ![obrazek](https://github.com/Pixelbite-CSS/.github/assets/83291717/ff76e654-fdee-4d8a-82ca-936688355649)
+
+</a>
+
 ## Stay Connected
 
 - **News:** Read our [news blog](https://pixelbite-css.github.io/news) for in-depth articles and tutorials.
@@ -36,6 +42,12 @@ We welcome contributions and participation from the community. Whether you're a 
 ## Support and Contact
 
 For any inquiries or support, you can reach us at [discussions](https://github.com/orgs/Pixelbite-CSS/discussions).
+
+<a href="https://github.com/orgs/Pixelbite-CSS/discussions">
+
+  ![obrazek](https://github.com/Pixelbite-CSS/.github/assets/83291717/ef2b55c2-d7b8-450e-bdfd-d1bd98aa7b3c)
+
+</a>
 
 Thank you for being a part of the PixelbiteCSS community.
 
