@@ -4,11 +4,16 @@
 
 ![image](https://raw.githubusercontent.com/Pixelbite-CSS/.github/main/banner-yellow.png)
 
-### What is Pixelbite CSS?
-- ***Pixelbite CSS*** is simply a CSS Framework like **Bootstrap** or **Tailwind**
-- This Framework helps site being build more faster, responsive and customizable
+# Welcome to PixelbiteCSS Organization
 
-### More
+PixelbiteCSS is an open-source organization dedicated to the development and advancement of the PixelbiteCSS framework for frontend development. We believe in empowering developers with a lightweight and customizable tool for building modern web applications.
+
+## What is PixelbiteCSS?
+
+PixelbiteCSS is a frontend development framework designed to simplify the creation of responsive and aesthetically pleasing web applications. Its minimalist approach provides flexibility for customization while maintaining a user-friendly syntax for developers of all skill levels.
+
+## Organization Structure
+
 - [FAQ's Discussion](https://github.com/orgs/Pixelbite-CSS/discussions/6)
 - [Website](https://pixelbite-css.github.io) ([repository](https://github.com/Pixelbite-CSS/Pixelbite-CSS.github.io))
 - [Main Repository](https://github.com/Pixelbite-CSS/pixelbite-css)
@@ -17,14 +22,19 @@
 - [Themes Repository](https://github.com/Pixelbite-CSS/themes)
 - [Documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md) (outdated)
 
+## Get Involved
 
-### Work in progress
-- [Custom component support](https://github.com/Pixelbite-CSS/custom-component-test) [done]
-  - We will be migrating our [website](https://pixelbite-css.github.io) into component support in the next release of Pixelbite's version [done]
-  - Adding arguments support [done]
-- ~Change Website's Color Scheme~
-- Fix main loop [done]
-- _Older version support + select version_ [done]
-- Reconstruct Website [done]
-- Complete Docs (for version 1.6)
-- Complete Website
+We welcome contributions and participation from the community. Whether you're a developer, designer, or enthusiast, there are many ways to get involved:
+
+- **[Contribute](https://github.com/Pixelbite-CSS/pixelbite-css):** Learn how to contribute to PixelbiteCSS projects.
+- **[Open Positions](https://pixelbite-css.github.io/team/positions):** Check our current job openings and join the PixelbiteCSS team.
+
+## Stay Connected
+
+- **News:** Read our [news blog](https://pixelbite-css.github.io/news) for in-depth articles and tutorials.
+
+## Support and Contact
+
+For any inquiries or support, you can reach us at [discussions](https://github.com/orgs/Pixelbite-CSS/discussions).
+
+Thank you for being a part of the PixelbiteCSS community.
