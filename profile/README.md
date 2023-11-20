@@ -12,6 +12,8 @@ PixelbiteCSS is an open-source organization dedicated to the development and adv
 
 PixelbiteCSS is a frontend development framework designed to simplify the creation of responsive and aesthetically pleasing web applications. Its minimalist approach provides flexibility for customization while maintaining a user-friendly syntax for developers of all skill levels.
 
+![obrazek](https://github.com/Pixelbite-CSS/.github/assets/83291717/45c64958-a4de-4554-899e-e6083da83542)
+
 ## Organization Structure
 
 - [FAQ's Discussion](https://github.com/orgs/Pixelbite-CSS/discussions/6)
