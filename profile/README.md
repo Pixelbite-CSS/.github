@@ -22,6 +22,13 @@ PixelbiteCSS is a frontend development framework designed to simplify the creati
 - [Themes Repository](https://github.com/Pixelbite-CSS/themes)
 - [Documentation](https://github.com/Pixelbite-CSS/.github/blob/main/profile/documentation.md) (outdated)
 
+
+<a href="https://pixelbite-css.github.io/examples/blank-template">
+  
+  ![obrazek](https://github.com/Pixelbite-CSS/.github/assets/83291717/d844c96d-fb4e-41e2-8ceb-5362072f673e)
+
+</a>
+
 ## Get Involved
 
 We welcome contributions and participation from the community. Whether you're a developer, designer, or enthusiast, there are many ways to get involved:
