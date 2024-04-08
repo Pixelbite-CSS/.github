@@ -19,6 +19,7 @@ PixelbiteCSS is a frontend development framework designed to simplify the creati
 - [FAQ's Discussion](https://github.com/orgs/Pixelbite-CSS/discussions/6)
 - [Website](https://pixelbite-css.github.io) ([repository](https://github.com/Pixelbite-CSS/Pixelbite-CSS.github.io))
 - [Main Repository](https://github.com/Pixelbite-CSS/pixelbite-css)
+- [Dist Repository](https://github.com/Pixelbite-CSS/dist)
 - [Docs Repository](https://github.com/Pixelbite-CSS/docs-repo)
 - [News Repository](https://github.com/Pixelbite-CSS/news-repo)
 - [Themes Repository](https://github.com/Pixelbite-CSS/themes)
